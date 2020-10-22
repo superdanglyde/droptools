@@ -3,8 +3,10 @@ Drop Tools is an application developed by Shinji Hideaki under TheShinjiClan and
 
 # Citations
 <ul>
+<li>ML Molo/ML Mola</li>
   <li>Betamin - Source of boosting script</li>
   <li>We Are Scammy/UCH - Source of boosting script</li>
+<li>Ronjie - Source of boosting script</li>
   <li>ErrorMacro</li>
   <li>AincradSystem - Source of checker</li>
   <li>BinerosUnidos - Source of bank identification numbers</li>
